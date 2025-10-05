@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexmo.acc@gmail.com
+	name = Alexis Monnier
